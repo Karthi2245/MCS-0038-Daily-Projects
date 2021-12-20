@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9f09416-2092-4c94-b515-861dc4d9b858" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Todo_App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/render.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/myapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/myapp/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/myapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/myapp/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../render/myproject/myapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todo_App/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/basicproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/basicapp/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../render/myproject/myapp/templates/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/templates/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/basicproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/myapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/templates/myapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/myapp/templates/myapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/myapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/myapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myproject/myproject/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1040" />
+    <option name="height" value="602" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Email" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Email" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f09416-2092-4c94-b515-861dc4d9b858" name="Default Changelist" comment="" />
+      <created>1640000055599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640000055599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project Explorer" />
+      <window_info id="DB Browser" />
+      <window_info id="Job Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="DB Diagnostics" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

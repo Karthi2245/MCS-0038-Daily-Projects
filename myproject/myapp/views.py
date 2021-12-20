@@ -4,6 +4,8 @@ from django.shortcuts import render
 # Create your views here.
 # class based based view
 # function based view
+from django.views import View
+
 
 def index(request):
     return HttpResponse('Hello Harsha')
@@ -29,12 +31,40 @@ def game(request, guess):
 def html_route(request):
     return render(request, 'myapp/index.html')
 #path('harsha/<int: number>
-def html_route2(request):
-    context = {'number': 7904134297, 'sim':'jio'}
+def html_route2(request,number):
+    # template_name = 'myapp/main.html'
+    context = {'number': number}
     return render(request,'myapp/main.html', context)
 
 def html_route3(request):
+    if request.method == "GET":
+        pass
+    elif request.method == "POST":
+        pass
     names = ['harsha','vardhan','ranjith']
     numbers = [ 2]
     context = {'names':names,'numbers': numbers}
     return render(request, 'myapp/number.html', context)
+# View TemplateView ListView APIView
+class Class_View(View):
+    def get(self,request):
+        return HttpResponse('Harsha in class')
+    def post(self,request):
+        pass
+    def put(self,request):
+        pass
+
+# create a function create a class an its methos
+# create a template
+# route url in urls.py
+
+class Myclass2(View):
+    def get(self,request,guess):
+        context = {'guess': guess}
+        return render(request, 'myapp/block.html', context)
+
+
+
+
+
+

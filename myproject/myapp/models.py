@@ -8,3 +8,7 @@ class Person(models.Model):
     last_name = models.CharField(max_length=30)
 
 
+# one to one relation many to many one to many many to one
+# PERSONS
+# first_name last_name
+
