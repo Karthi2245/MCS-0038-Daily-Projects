@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Items</title>
+</head>
+<body>
+<div>
+    <button onclick="" name="Grocery">grocery_items</button><br><br>
+    <button onclick="" name="Electronics">electronic_items</button><br><br>
+    <button onclick="" name="Dresses">clothing_items</button><br><br>
+   <form action="/it/" method="post">{%csrf_token%}
+    <input type="text" name="add_items">
+    <input type="submit" value="add">
+   </form>
+    {% for i in add_items%}
+    <button>
+
+        {{i.add_items}}
+
+    </button>
+    {%endfor%}
+</div>
+</body>
+</html>
