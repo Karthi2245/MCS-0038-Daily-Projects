@@ -9,17 +9,18 @@
     <button onclick="" name="Grocery">grocery_items</button><br><br>
     <button onclick="" name="Electronics">electronic_items</button><br><br>
     <button onclick="" name="Dresses">clothing_items</button><br><br>
-   <form action="/it/" method="post">{%csrf_token%}
-    <input type="text" name="add_items">
-    <input type="submit" value="add">
-   </form>
     {% for i in add_items%}
     <button>
 
         {{i.add_items}}
 
-    </button>
+    </button><br><br>
     {%endfor%}
+   <form action="it" method="post">{%csrf_token%}
+    <input type="text" name="add_items">
+    <input type="submit" value="add">
+   </form>
+
 </div>
 </body>
 </html>
