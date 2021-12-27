@@ -15,3 +15,8 @@ def add_items(request):
     new_item.save()
     return HttpResponseRedirect('items')
 
+def grocery_items(request):
+    return render(request, 'myitems/list_grocery.html')
+
+
+

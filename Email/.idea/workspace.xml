@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9f09416-2092-4c94-b515-861dc4d9b858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myinfo/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myinfo/templates/myinfo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myinfo/templates/myinfo/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myinfo/templates/myinfo/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myinfo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Todo_App/todoapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/templates/myitems/list_grocery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Storefront/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Storefront/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Storefront/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Email/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Email/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Email/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myinfo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myinfo/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myinfo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myinfo/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/templates/todolist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/templates/todolist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/todoapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/todoapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/todoapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/todoapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Todo_App/todolist/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Todo_App/todolist/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../render/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../render/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inventory_App/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/templates/myitems/items.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/templates/myitems/items.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myinfo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -52,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Email/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="440">
               <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="e#629#661#0" expanded="true" />
@@ -79,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myinfo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -130,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +141,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,17 +240,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myinfo/views.py">
+    <entry file="file://$PROJECT_DIR$/Email/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myinfo/templates/myinfo/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="440">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -271,16 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Email/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#629#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myinfo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -288,6 +264,20 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myinfo/templates/myinfo/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myinfo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
