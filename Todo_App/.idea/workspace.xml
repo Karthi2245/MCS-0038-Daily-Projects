@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe0b8c9-1240-4d93-a325-f41ea9628e4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Inventory_App/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Email/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Email/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Email/myinfo/templates/myinfo/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Email/myinfo/templates/myinfo/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Email/myinfo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Email/myinfo/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inventory_App/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/templates/myitems/items.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Inventory_App/myinventory/myitems/templates/myitems/items.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/todoapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -107,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1040" />
     <option name="height" value="602" />
@@ -206,7 +207,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1376488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -305,7 +306,7 @@
     <entry file="file://$PROJECT_DIR$/todoapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
