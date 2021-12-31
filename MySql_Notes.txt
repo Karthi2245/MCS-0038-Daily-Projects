@@ -1,0 +1,102 @@
+MySql:
+--> It is a Realtional Database Management System
+	-->  These databases are categorized by a set of tables where data gets fit into a pre-defined category.
+--> open Source
+--> Ideal for both small and large applications.
+--> Free
+--> Very Fast and reliable and easy to use.
+--> Developed by Oracle
+--> Cross-platform
+
+who uses Mysql:
+--> Huge websites like Facebook, Twitter, Airbnb, Booking.com, Uber, GitHub, YouTube, etc.
+--> Content Management Systems like WordPress, Drupal, Joomla!, Contao, etc.
+--> A very large number of web developers around the world.
+
+Show Data On Your Web Site
+--> To build a web site that shows data from a database, you will need:
+
+--> An RDBMS database program (like MySQL)
+--> A server-side scripting language, like PHP
+--> To use SQL to get the data you want
+--> To use HTML / CSS to style the page
+
+SQL:
+SQL is the standard language for handling the dealing with Relational database.
+SQL is used to insert, update, search , delete, database records.
+
+How to use SQl:
+--> select * from table_name - this command is for select all the records of given table_name
+--> no case sensitive select is same as SELECT
+--> some relational database need semicolan end of the command or statement
+Important Commands:
+SELECT - extracts or retrieve data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index(according to key)
+
+My SQL SELECT:
+--> The SELECT statement is used to select data from database.
+--> The data returned is stored in a result table, called result-set.
+
+to select particular data, 
+
+SELECT colum1, colum2, colum3, FROM table_name
+
+to select the whole data in the table,
+
+SELECT * FROM table_name  (* denotes all)
+
+SELECT DISTINCT:
+--> This statment is used to return only distinct values(different values).
+--> It will sort the duplicate values of column of the table.
+
+with SELECT DISTINCT:
+--> with this statement we can particular columns data and we can avoid its duplicate values.
+--> using SELECT COUNT(DISTINCT column_name) FROM  table_name we can count the values also.
+
+My SQL WHERE Clause:
+--> The where is used to filter the records
+--> it is used to extract those records which satisfy the specific condition
+
+Syntax:
+SELECT colum1 FROM table_name WHERE condition ;
+--> WHERE Clause is not only used in SELECT and also used in UPDATE and DELETE statments.
+
+Operators used in WHERE Clause:
+--> = 		Equal	
+--> >		Greater than	
+--> <		Less than	
+--> >=		Greater than or equal	s
+--> <=		Less than or equal	
+--> <>		Not equal. Note: In some versions of SQL this operator may be written as !=	
+--> BETWEEN	Between a certain range	
+--> LIKE	Search for a pattern	
+--> IN		To specify multiple possible values for a column
+
+MySQL AND, OR, NOT:
+--> WHERE Clause is combined with AND OR NOT operators
+--> AND OR operators used to filter the records based one or more condition
+	--> The AND condition displays the record if all the condition seperated by AND is TRUE
+	--> The OR condition displays the record if all the condition seperated by OR is TRUE.
+--> NOT - The NOT condition displays the record if the condition is NOT TRUE
+
+Syntax:
+--> SELECT column1, column2, column3 FROM table_name WHERE condition1 AND condition2 AND condition3 ;
+--> SELECT column1, column2, column3 FROM table_name WHERE condition1 OR condition2 OR condition3 ;
+--> SELECT column1, column2 FROM table_name WHERE condition1 NOT condition2
+
+MySQL ORDER BY Keyword:
+--> This Keyword used to store the result set either in ascending order or descending order
+--> By default the result will be ascending(ASC) order only.if we want descending we have to use (DESC).
+
+Syntax:
+
+SELECT coulmn1, column2 FROM table_name ORDER BY column1, column2  ASC|DESC
