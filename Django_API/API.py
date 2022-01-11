@@ -25,13 +25,41 @@ information surrounded with quotation marks, {}, [] and descriptive titles of
 each bit of info.
 --> json - json is a format and its not at all specify to any application
 
-Rest Api installation:
+--> Rest Api installation:
 --> pip install djangorestframework
 --> create a project
 --> create a app
 --> create a model
 --> register the Model in admin
+--> Include rest_framework in apps which is in settings.
+
+serializer.py:
 --> serializer class is used to convert models to json data
+--> In serializer.py we have to import the serializer from rest_frame
+--> We have to import the .models to give it for serializer to convert into json
+--> we have to create the serializer class, inside the class we have to create the
+meta data for getting all the fields of models.
+--> to get the model fields, we have to store the model class in a variable
+after that u can store the fields value in fields value like, (fields = __all__)
+--> __all__ - it return the all the value of fields.
+
+views.py:
+Class 1:(get, post)
+--> first of all we have to import the all the necessary modules
+--> For get and post the data we have to create the one class
+--> Inside the class we have to create the get and post function.
+    -> get the data from models and stored it in variable by objects.all()method
+    -> After that, for serializing the value of model fields we have to send the
+    model variable to serializer class and stored it in another variable.
+    serializer = SerClass(model variable, many = True)
+--> For post we have to get the data by request and save it with save() method
+    ; serializer.save().
+
+Class 2:(put, delete)
+--> We have to get the data by id by objects.get(id=id) method.
+--> After that we have to pass that id to update and delete the data.
+
+
 
 
 
