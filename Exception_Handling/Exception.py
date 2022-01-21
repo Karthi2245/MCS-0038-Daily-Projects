@@ -98,32 +98,6 @@ Logical Errors:
 --> These errors depict flaws in the logic of the program.
 --> It is based on the programmers logic they have to take care of it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 # Compile time errors:
 # Ex:1
